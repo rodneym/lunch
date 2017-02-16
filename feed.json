@@ -1,0 +1,16 @@
+[
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
+    "updateDate": "2016-04-10T00:00:00.0Z",
+    "titleText": "Monday",
+    "mainText": "hotdogs",
+    "redirectionUrl": "https://www.amazon.com"
+   },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
+    "updateDate": "2016-04-10T00:00:00.0Z",
+    "titleText": "Tuesday",
+    "mainText": "turkey",
+    "redirectionUrl": "https://www.amazon.com"
+  }
+]
