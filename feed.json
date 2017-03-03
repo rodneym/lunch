@@ -3,14 +3,7 @@
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
     "updateDate": "2016-04-10T00:00:00.0Z",
     "titleText": "Monday",
-    "mainText": "hotdogs",
-    "redirectionUrl": "https://www.amazon.com"
-   },
-  {
-    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
-    "updateDate": "2016-05-10T00:00:00.0Z",
-    "titleText": "Tuesday",
-    "mainText": "turkey",
-    "redirectionUrl": "https://www.amazon.com"
-  }
+    "mainText": "Friday March 3, Chili Mac, Vegan Lentil Chili Frito Pie, CornbreadSeasoned JBG Organic Carrots, Baby Carrot & Zucchini Dippers, and Blueberry Cup",
+    "redirectionUrl": "https://www.austinisd.org/sites/default/files/dept/nutrition/docs/menus/March_Elementary_2017_ENG_SP_MENU.pdf"
+   }
 ]
